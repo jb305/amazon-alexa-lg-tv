@@ -10,6 +10,7 @@ Makes use of Klattimer's LGWebOSRemote module and Sinric's faux WEEMOS creator t
   * UH650V
   * UJ635V
   * HU80KG.AEU (CineBeam 4K)
+  * LF6300
   * [please add more!]
 
   Tested with python 2.7 on linux. 
